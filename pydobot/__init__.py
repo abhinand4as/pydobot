@@ -1,1 +1,2 @@
-from pydobot.dobot import Dobot
+from .dobot import Dobot
+
